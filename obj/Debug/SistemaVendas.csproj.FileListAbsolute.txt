@@ -1,0 +1,12 @@
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.AssemblyReference.cache
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.frmAdminPainel.resources
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.frmUsuárioPainel.resources
+C:\Sistema_csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.UI_formularios.frmusuarios.resources
